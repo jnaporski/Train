@@ -1,2 +1,2 @@
 # Train
-train scheduler
+train scheduler made for fullstack boot camp

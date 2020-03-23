@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+}
+
+ #titleCard{
+     background-color: darkmagenta;
+     text-shadow: darkorchid;
+ }
+
+#schHead{
+    background-color: crimson;
+}
+
+#schBody{
+    background-color: darkgreen;
+}
